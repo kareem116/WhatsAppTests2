@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "790725335057",
+    "project_id": "whatsapptest-c2f36",
+    "storage_bucket": "whatsapptest-c2f36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790725335057:android:6af338960be3b36651f9b0",
+        "android_client_info": {
+          "package_name": "com.example.whatsapptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790725335057-qrpeg6ra32fi7r4uahjqb0ahvonaitej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsapptest",
+            "certificate_hash": "96ea58d9ad24a83c80ee16e06e6146e0bd736024"
+          }
+        },
+        {
+          "client_id": "790725335057-kpjdvdj2fpu6pq23afhn75pohvgphids.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUVw4cgJMR6gGmEmtrxZScGk86Gt3kT88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790725335057-kpjdvdj2fpu6pq23afhn75pohvgphids.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790725335057:android:0e5b8e8567d1b35551f9b0",
+        "android_client_info": {
+          "package_name": "com.example.whatsapptests"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790725335057-kpjdvdj2fpu6pq23afhn75pohvgphids.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUVw4cgJMR6gGmEmtrxZScGk86Gt3kT88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790725335057-kpjdvdj2fpu6pq23afhn75pohvgphids.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
